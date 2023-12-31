@@ -159,7 +159,7 @@ Project Link: [HOGS](https://github.com/LumoWarp/wand)
 <br>
 Discord Link: [Discord](https://discord.com/invite/6z7s9tK4)
 <br>
-Feature List: [Coming Soon](https://example.com)
+Feature List: [Trello Coming Soon](https://example.com)
 <br>
 Dev Application: [Developer Application](https://forms.gle/Xpi9JJKqAALnoku2A)
 <br>
