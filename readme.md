@@ -178,7 +178,7 @@ Beta Tester Application: [Coming Soon](https://discord.com/invite/6z7s9tK4)
 [issues-shield]: https://img.shields.io/github/issues/LumoWarp/wand.svg?style=for-the-badge
 [issues-url]: https://github.com/LumoWarp/wand/issues
 [license-shield]: https://img.shields.io/github/license/LumoWarp/wand.svg?style=for-the-badge
-[license-url]: https://github.com/LumoWarp/wand/blob/master/LICENSE.txt
+[license-url]: https://github.com/LumoWarp/wand/blob/main/LICENSE.txt
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
