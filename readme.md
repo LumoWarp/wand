@@ -96,10 +96,12 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 <!-- ROADMAP -->
 ## Roadmap
-# Last Updated: 24.12.2023
+# Last Updated: 4.1.2024
 
 v0.1
 - [ ] PvP Enabled
+    - [X] Targetable "Friendly" NPC's
+    - [ ] Targetable PC's - Testing
     - [ ] Pop-ups
        - [ ] Dodge
        - [ ] Block
@@ -115,9 +117,10 @@ See the [open issues](https://github.com/LumoWarp/wand/issues) for a full list o
 
 <!-- RELEASE -->
 ## Releases
-
-- [ ] Beta-test v0.1
-    - [ ] Public v0.1
+- [ ] Public v0.1
+  - [X] Alpha-test v0.1
+    - [ ] Beta-test v0.1
+    
      
 Beta-test v0.1 will not be released before the end of February 2024.
 <br>
