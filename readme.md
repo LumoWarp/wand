@@ -101,13 +101,16 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 v0.1
 - [ ] PvP Enabled
     - [X] Targetable "Friendly" NPC's
-    - [ ] Targetable PC's - Testing
+    - [X] Targetable PC's - Testing
+    - [ ] Damage Modeling & Complex Systems
       - [ ] Pop-ups
          - [ ] Dodge
          - [ ] Block
             - [ ] Parry
     - [x] ComSpell Addition - Apparate
-      - [ ] Test PC's Sync
+      - [X] Test PC's Sync
+        - [X] Pc's Display Movemment
+        - [ ] PC's Display Animation
       - [ ] Build in Hogwarts Grounds Apparate Prevention Mechanism
 - [ ] UI
     - [ ] Flagged Hostile Targets
