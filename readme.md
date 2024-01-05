@@ -107,6 +107,8 @@ v0.1
          - [ ] Block
             - [ ] Parry
     - [x] ComSpell Addition - Apparate
+      - [ ] Test PC's Sync
+      - [ ] Build in Hogwarts Grounds Apparate Prevention Mechanism
 - [ ] UI
     - [ ] Flagged Hostile Targets
     - [ ] Flagged Friendly Targets
