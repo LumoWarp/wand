@@ -102,10 +102,11 @@ v0.1
 - [ ] PvP Enabled
     - [X] Targetable "Friendly" NPC's
     - [ ] Targetable PC's - Testing
-    - [ ] Pop-ups
-       - [ ] Dodge
-       - [ ] Block
-          - [ ] Parry
+      - [ ] Pop-ups
+         - [ ] Dodge
+         - [ ] Block
+            - [ ] Parry
+    - [x] ComSpell Addition - Apparate
 - [ ] UI
     - [ ] Flagged Hostile Targets
     - [ ] Flagged Friendly Targets
