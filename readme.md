@@ -109,7 +109,7 @@ v0.1
             - [ ] Parry
     - [x] ComSpell Addition - Apparate
       - [X] Test PC's Sync
-        - [X] Pc's Display Movemment
+        - [X] Pc's Display Movement
         - [ ] PC's Display Animation
       - [ ] Build in Hogwarts Grounds Apparate Prevention Mechanism
 - [ ] UI
