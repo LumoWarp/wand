@@ -166,13 +166,13 @@ Head Dev - xFallen
 
 Project Link: [HOGS](https://github.com/LumoWarp/wand)
 <br>
-Discord Link: [Discord](https://discord.com/invite/6z7s9tK4)
+Discord Link: [Discord](https://discord.gg/Ft8s8PujxS)
 <br>
 Feature List: [Trello Coming Soon](https://example.com)
 <br>
 Dev Application: [Developer Application](https://forms.gle/Xpi9JJKqAALnoku2A)
 <br>
-Beta Tester Application: [Coming Soon](https://discord.com/invite/6z7s9tK4)
+Beta Tester Application: [Coming Soon](https://discord.gg/Ft8s8PujxS)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
