@@ -161,8 +161,6 @@ Distributed under the GPLv3.0 License.
 ## Discord Contact
 
 Head Dev - aliiusthebearded
-<br>
-Head Dev - xFallen
 
 Project Link: [HOGS](https://github.com/LumoWarp/wand)
 <br>
